@@ -1,5 +1,3 @@
 openosvita.org.test
 ===================
-this is line 3 of readme
-line 4
-line 5
+this hithub resourse is open to support of developing courseware for Gov managers
